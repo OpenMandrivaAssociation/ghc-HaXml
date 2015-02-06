@@ -4,7 +4,7 @@
 Summary:	Utilities for manipulating XML documents for Haskell
 Name:		ghc-%{module}
 Version:	1.23.3
-Release:	2
+Release:	3
 License:	LGPLv2.1+
 Group:		Development/Other
 Url:		http://hackage.haskell.org/package/%{module}
